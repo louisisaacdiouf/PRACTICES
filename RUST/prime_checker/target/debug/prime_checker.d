@@ -1,0 +1,1 @@
+/home/lijsd/repositories/github/PRACTICES/RUST/prime_checker/target/debug/prime_checker: /home/lijsd/repositories/github/PRACTICES/RUST/prime_checker/src/lib.rs /home/lijsd/repositories/github/PRACTICES/RUST/prime_checker/src/main.rs
