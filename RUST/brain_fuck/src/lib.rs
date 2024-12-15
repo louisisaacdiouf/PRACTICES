@@ -1,4 +1,4 @@
-// use std::{thread, time};
+use std::{thread, time};
 
 pub fn brain_fuck(cmd: &String)  {
     let mut pointer = 0;
@@ -13,8 +13,8 @@ pub fn brain_fuck(cmd: &String)  {
             // return Default::default();
             return;
         }
-        // dbg!(&cursor);
-        // println!("{:?}", data.clone().iter().map(|&c| c as u8).collect::<Vec<u8>>());
+        dbg!(&cursor);
+        println!("{:?}", data.clone().iter().map(|&c| c as u8).collect::<Vec<u8>>());
         // dbg!(&data);
         match all_chars[cursor] {
             '+' => {
@@ -67,7 +67,7 @@ pub fn brain_fuck(cmd: &String)  {
             _ => {}
         }
         cursor += 1;
-        // thread::sleep(time::Duration::from_millis(100));
+        thread::sleep(time::Duration::from_millis(100));
     }
     // println!("{res}");
 }
