@@ -1,0 +1,48 @@
+**Thème 1 : Les Bases**
+    ☐ Hello, Ruby!
+    ☐ Factoriel
+    ☐ Fibonacci
+    ☐ Nombres Premiers
+    ☐ ROT13
+    ☐ Multiples de 3 et 5
+    ☐ Inverser une chaîne de caractères
+    ☐ Compter les occurrences d’un caractère
+    ☐ Palindrome
+
+**Thème 2 : File System**
+    ☐ Lire un fichier texte
+    ☐ Écrire dans un fichier
+    ☐ Lister un répertoire
+    ☐ Recherche dans des fichiers
+
+**Thème 3 : Programmation Orientée Objet (POO)**
+    ☐ Création de classes et d'objets
+    ☐ Héritage
+    ☐ Encapsulation
+    ☐ Polymorphisme
+
+**Thème 4 : Programmation asynchrone**
+    ☐ Threads simples
+    ☐ Mutex pour éviter les conflits
+    ☐ Timers asynchrones
+
+**Thème 5 : Serveur Web**
+    ☐ Serveur TCP simple
+    ☐ Serveur WebSocket
+    ☐ Serveur HTTP basique
+
+**Thème 6 : Base de Données**
+    ☐ Gestion de contacts
+    ☐ Fusionner deux hashs
+
+**Thème 7 : Concurrence et Parallélisme**
+    ☐ Serveur de jeu multijoueur
+    ☐ Simulation concurrente
+    ☐ Téléchargements parallèles
+    ☐ Calcul distribué
+
+**Thème 8 : Projets Finaux**
+    ☐ Jeu multijoueur simple
+    ☐ Plateforme de blog avec API
+    ☐ Application de gestion de tâches
+    ☐ Analyseur de logs
