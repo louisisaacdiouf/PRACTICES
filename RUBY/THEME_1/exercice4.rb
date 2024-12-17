@@ -12,7 +12,8 @@ def est_premier(n)
   return true
 end
 
-puts "Vérification nombre premier\n----------------------------"
+puts "Vérification nombre premier"
+puts "---------------------------"
 puts "Entrez un nombre :"
 n = gets.chomp().to_i
 puts "est_premier(#{n})? = #{est_premier(n)}"

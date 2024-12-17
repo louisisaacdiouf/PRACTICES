@@ -5,7 +5,8 @@ def factoriel(n)
   return n * factoriel(n-1)
 end
 
-puts "Calcul du factoriel\n-------------------"
+puts "Calcul du factoriel"
+puts "-------------------"
 puts "Entrez un nombre :"
 n = gets.chomp().to_i
 puts "#{n}! = #{factoriel(n)}"

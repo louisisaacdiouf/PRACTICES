@@ -9,7 +9,8 @@ def fibonacci(n)
   end
 end
 
-puts "Calcul de fibonacci\n-------------------------------"
+puts "Calcul de fibonacci"
+puts "-------------------"
 puts "Entrez un nombre :"
 n = gets.chomp().to_i
 puts "fibonacci(#{n}) = #{fibonacci(n)}"
