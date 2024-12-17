@@ -1,8 +1,8 @@
 **Thème 1 : Les Bases**
-    ☐ Hello, Ruby!
-    ☐ Factoriel
-    ☐ Fibonacci
-    ☐ Nombres Premiers
+    ✔ Hello, Ruby! @done(24-12-17 22:40)
+    ✔ Factoriel @done(24-12-17 22:41)
+    ✔ Fibonacci @done(24-12-17 22:41)
+    ✔ Nombres Premiers @done(24-12-17 22:41)
     ☐ ROT13
     ☐ Multiples de 3 et 5
     ☐ Inverser une chaîne de caractères
