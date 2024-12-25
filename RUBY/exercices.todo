@@ -3,14 +3,14 @@
     ✔ Factoriel @done(24-12-17 22:41)
     ✔ Fibonacci @done(24-12-17 22:41)
     ✔ Nombres Premiers @done(24-12-17 22:41)
-    ☐ ROT13
-    ☐ Multiples de 3 et 5
-    ☐ Inverser une chaîne de caractères
-    ☐ Compter les occurrences d’un caractère
-    ☐ Palindrome
+    ✔ ROT13 @done(24-12-18 21:22)
+    ✔ Multiples de 3 et 5 @done(24-12-25 13:39)
+    ✔ Inverser une chaîne de caractères @done(24-12-25 13:39)
+    ✔ Compter les occurrences d’un caractère @done(24-12-25 14:18)
+    ✔ Palindrome @done(24-12-25 14:18)
 
 **Thème 2 : File System**
-    ☐ Lire un fichier texte
+    ✔ Lire un fichier texte @done(24-12-25 15:32)
     ☐ Écrire dans un fichier
     ☐ Lister un répertoire
     ☐ Recherche dans des fichiers
