@@ -11,15 +11,15 @@
 
 **Thème 2 : File System**
     ✔ Lire un fichier texte @done(24-12-25 15:32)
-    ☐ Écrire dans un fichier
-    ☐ Lister un répertoire
-    ☐ Recherche dans des fichiers
+    ✔ Écrire dans un fichier @done(24-12-26 01:37)
+    ✔ Lister un répertoire @done(24-12-26 04:04)
+    ✔ Recherche dans des fichiers @done(24-12-26 04:32)
 
 **Thème 3 : Programmation Orientée Objet (POO)**
-    ☐ Création de classes et d'objets
-    ☐ Héritage
-    ☐ Encapsulation
-    ☐ Polymorphisme
+    ✔ Création de classes et d'objets @done(24-12-26 05:06)
+    ✔ Héritage @done(24-12-26 05:06)
+    ✔ Encapsulation @done(24-12-29 20:17)
+    ✔ Polymorphisme @done(24-12-29 20:33)
 
 **Thème 4 : Programmation asynchrone**
     ☐ Threads simples

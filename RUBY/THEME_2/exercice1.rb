@@ -3,7 +3,9 @@ def lire_fichier(path)
   
   file.each_line do |line|
     puts line
-  end  
+  end 
+
+  file.close
 end
 
 lire_fichier(ARGV[0])
